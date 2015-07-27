@@ -1,0 +1,24 @@
+{
+  "name": "promiseme",
+  "version": "1.0.0",
+  "description": "All about promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yongzhihuang/promiseme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongzhihuang/promiseme/issues"
+  },
+  "homepage": "https://github.com/yongzhihuang/promiseme",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "github": "^0.2.4",
+    "q": "^1.4.1"
+  }
+}
